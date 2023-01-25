@@ -15,4 +15,5 @@ I am fine and you
 7.git add demo.txt
 8.notepad demo.txt
 9.git --version
+new changes before staging
 
