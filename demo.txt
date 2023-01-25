@@ -1,0 +1,18 @@
+My Name is Prince Kumar
+I learnt git 
+My Exercise done till now
+1.git --version
+2.git init
+3.mkdir princegit
+cd princegit
+and also learnt how to open hidden files in windows
+4.git config --global user.name "Prince" -> this will tell you who is commit 
+
+5.git config --global user.email "princebxr02@gmail.com" -> this will tell email id  you who is commit 
+hey how are you
+I am fine and you
+6.git status
+7.git add demo.txt
+8.notepad demo.txt
+9.git --version
+
