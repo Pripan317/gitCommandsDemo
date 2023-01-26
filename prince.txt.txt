@@ -1,0 +1,26 @@
+My Name is Prince Kumar
+I learnt git 
+My Exercise done till now
+1.git --version
+2.git init
+3.mkdir princegit
+cd princegit
+and also learnt how to open hidden files in windows
+4.git config --global user.name "Prince" -> this will tell you who is commit 
+
+5.git config --global user.email "princebxr02@gmail.com" -> this will tell email id  you who is commit 
+hey how are you
+I am fine and you
+6.git status
+7.git add demo.txt => to go staging area
+8.notepad demo.txt
+9.git --version
+new changes before staging
+10. git commit -m "commit code" demo.txt => commit staging area to local area
+11. git push => push file to local to remote repo
+12. dir => see the list of file
+13. copy => copy the file
+14.git pull => take file remote to local
+15. git log
+
+
