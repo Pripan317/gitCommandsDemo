@@ -16,6 +16,9 @@ public class Airthmatic {
     public int div(int a , int b){
         return a/b;
     }
+    public int rem(int a , int b){
+        return a%b;
+    }
 
     public static void main(String[] args){
         Airthmatic airobj = new Airthmatic();
@@ -23,6 +26,7 @@ public class Airthmatic {
         System.out.println("substraction two number "+airobj.sub(5,3));
         System.out.println("multiple two number "+airobj.mul(5,3));
         System.out.println("division two number "+airobj.div(5,3));
+        System.out.println("remender two number "+airobj.rem(5,3));
     }
 }
 
